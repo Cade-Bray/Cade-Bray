@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @churchill-Explorer
+- 👋 Hi, I’m @Cade-Bray
 - 👀 I’m interested in videogames like most people on this site I would assume. I also enjoy understanding how things operate.
-- 🌱 I’m currently attending SNHU for a BS in computer science with a concentration in software developement.
+- 🌱 I’m currently attending SNHU for a BS in computer science with a concentration in software developement and a minor in information technology.
 - 💞️ I’m looking to collaborate on any interesting repo's that I might be able to learn from.
-- 📫 How to reach me: bray.cade@gmail.com
+- 📫 How to reach me: bray.cade@gmail.com or Cade.Bray@snhu.edu.
