@@ -5,8 +5,8 @@ Software Engineer specializing in application security, IaC, process automation,
 ### Background
 * **Current Role:** _Currently looking_
 * **Education:**
-* * M.S. in Cybersecurity Management from David Eccles Eccles school of business, University of Utah (Dec, 2027)
-* * B.S. in Computer Science (Software Engineering concentration, IT minor) from Southern New Hampshire University (Apr, 2026).
+  * M.S. in Cybersecurity Management from David Eccles Eccles school of business, University of Utah (Dec, 2027)
+  * B.S. in Computer Science (Software Engineering concentration, IT minor) from Southern New Hampshire University (Apr, 2026).
 * **Certifications:** CompTIA A+ (Core 1 completed), currently pursuing CompTIA A+ Core 2, Security+ and Linux+.
 
 ### Technical Focus & Interests
