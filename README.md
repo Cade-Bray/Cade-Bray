@@ -1,6 +1,6 @@
 # Cade Bray
 
-Software Engineer specializing in application security, IaC, process automation, and systems engineering. I am driven by a practical approach to security research and a commitment to building robust systems that protect end-users from technical exploits.
+Security/Software Engineer specializing in application security, IaC, process automation, and systems engineering. I am driven by a practical approach to security research and a commitment to building robust systems that protect end-users from technical exploits.
 
 ### Background
 * **Current Role:** _Currently looking_
@@ -16,7 +16,11 @@ Software Engineer specializing in application security, IaC, process automation,
 ### Community Involvement
 * **801 Labs:** Volunteer Associate and technical presenter.
 * **SAINTCON:** Volunteer for the SAINTCON: RFID Sanctum (Oct 2025 & 2026).
-* **DEF CON:** Volunteer for the Physical Security Village (August 2026).
+* **DEFCON:** Volunteer for the Physical Security Village (August 2026).
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Cade-Bray&theme=gruvbox)
-![Top Languages](https://ghstats.dev/api/langs?username=Cade-Bray&theme=gruvbox&layout=donut_vertical)
+<br>
+<p align="center">
+  <img height="400" src="https://ghstats.dev/api/card?username=Cade-Bray&theme=gruvbox" alt="GitHub Stats Card" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- These add physical space between the images -->
+  <img height="400" src="https://ghstats.dev/api/langs?username=Cade-Bray&theme=gruvbox&layout=donut_vertical" alt="Top Languages" />
+</p>
