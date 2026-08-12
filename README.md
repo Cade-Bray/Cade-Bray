@@ -18,5 +18,5 @@ Software Engineer specializing in application security, IaC, process automation,
 * **SAINTCON:** Volunteer for the SAINTCON: RFID Sanctum (Oct 2025 & 2026).
 * **DEF CON:** Volunteer for the Physical Security Village (August 2026).
 
-### Contact
-* **Email:** [bray.cade@gmail.com](mailto:bray.cade@gmail.com)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Cade-Bray&theme=gruvbox)
+![Top Languages](https://ghstats.dev/api/langs?username=Cade-Bray&theme=gruvbox&layout=donut_vertical)
