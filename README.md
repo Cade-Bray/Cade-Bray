@@ -3,7 +3,7 @@
 Security/Software Engineer specializing in application security, IaC, process automation, and systems engineering. I am driven by a practical approach to security research and a commitment to building robust systems that protect end-users from technical exploits.
 
 ### Background
-* **Current Role:** _Currently looking_
+* **Current Role:** UTech Service Associate
 * **Education:**
   * M.S. in Cybersecurity Management from David Eccles Eccles school of business, University of Utah (Dec, 2027)
   * B.S. in Computer Science (Software Engineering concentration, IT minor) from Southern New Hampshire University (Apr, 2026).
